@@ -6,7 +6,7 @@ class Header extends Component{
 		<Head/>
 		return(
 				<div className="Header">
-					<Head/>
+					
 					<h1 className="gfr">Gajjar Darshit</h1>
 				</div>
 			);
@@ -14,9 +14,17 @@ class Header extends Component{
 }
 class Head extends Component{
 	render(){
+		<Hea/>
 		return(
 				<h1 className="fr">Gajjar Darshit</h1>
 			);
+	}
+}
+class Hea extends Component{
+	render(){
+		return(
+				<h1 className="fr">Drahs</h1>
+			);	
 	}
 }
 export default Header;
