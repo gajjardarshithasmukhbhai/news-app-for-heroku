@@ -6,16 +6,3 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
-var React = require('react');
-
-var index = React.createClass({
-
-	render: function() {
-		return (
-			<div />
-		);
-	}
-
-});
-
-module.exports = index;

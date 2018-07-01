@@ -1,0 +1,42 @@
+.gfr{
+	color: #ffffff;
+	font-size: 30px;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	border: 3px solid #020202;
+	border-radius: 20PX;
+	width: 220px;
+	background-color: #757171;
+	position: absolute;
+	top: 96px;
+	left: 200px;
+}
+.gfr:hover{
+	border: 3px solid black;
+	background-color: #ffffff ;
+	color: black;
+}
+.trr
+{
+	color:#F284D9;
+}
+.trr:hover
+{
+	color: #6FE0E4;
+}
+.fr{
+	color: #ffffff;
+	font-size: 30px;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	border: 3px solid #020202;
+	border-radius: 20PX;
+	width: 220px;
+	background-color: #757171;
+	position: absolute;
+	top: 96px;
+	right: 200px;
+}
+.fr:hover{
+	border: 3px solid black;
+	background-color: #ffffff ;
+	color: black;
+}
