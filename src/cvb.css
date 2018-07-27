@@ -11,7 +11,7 @@
 	left: 200px;
 }
 .gfr:hover{
-	border: 3px solid black;
+	border: 3px solid red;
 	background-color: #ffffff ;
 	color: black;
 }
