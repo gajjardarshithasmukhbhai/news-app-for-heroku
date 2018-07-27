@@ -1,5 +1,20 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+.sk{
+    height: 300px;
+}
+.trf{
+    background: url("son-2935723_960_720.jpg");
+    background-size: cover;
+    height: 500px;
+}
+.color{
+	color: white;
+}
+.ca
+{
+	width: 18rem;
+}
+
+.qw{
+	color: white;
+	font-size: 16px;
 }
