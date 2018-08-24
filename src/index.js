@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom'
 import './index.css';
 import Jumbotron from './index1.js';
 import Footer from './index2.js';
+import  'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 class Parent extends React.Component{
 	constructor(props)
 	{
